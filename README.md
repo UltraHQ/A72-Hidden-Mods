@@ -1,5 +1,5 @@
 # A72-Hidden-Mods
-A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) and his [NcX Rom](https://forum.xda-developers.com/t/rom-oneui-2-5-twrp-ncx-2-5-for-a71-sm-a715f.4174135/) plus some extra mods systemlessly, now also for the Galaxy A72!<br/>
+A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) and his [NcX Rom](https://forum.xda-developers.com/t/rom-oneui-2-5-twrp-ncx-2-5-for-a71-sm-a715f.4174135/) plus some extra mods systemlessly, now ported to the Galaxy A72!<br/>
 Thanks ShaDisNX255 for contributing so much! Most features came from him.
 
 > Note: It should only be used on the Galaxy A72 (SM-A725F) running Android 11. Trying on other devices is at your own risk.
