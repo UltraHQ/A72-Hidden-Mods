@@ -259,13 +259,8 @@
 	<local name="USE_KEY_SCREEN_INFLATION_DELAY" value="true" />
     <local name="SUPPORT_VIDEO_PALM_DETECTION" value="true"/>
     <local name="SUPPORT_TRUE_HDR" value="true"/>
-    <local name="SUPPORT_HISTOGRAM" value="true"/>
-    <local name="SUPPORT_PRO_VIDEO_FOCUS_PEAKING" value="true"/>
-    <local name="SUPPORT_PRO_VIDEO_ZOOM_ROCKER" value="true"/>
     <local name="SUPPORT_EXPAND_SHUTTER_SPEED" value="true"/>
     <local name="SUPPORT_UNLIMITED_VIDEO_FILE_SIZE" value="true"/>	
-    <local name="SUPPORT_SWITCH_FACING_WHILE_RECORDING" value="true"/>	
-    <local name="DELAY_TIME_TO_RESUME_WHEN_SWITCH_FACING_WHILE_RECORDING" value="250" />
 
     <!-- Advance option HDR10+ Video Recording -->
     <local name="SUPPORT_HDR10_PLUS_RECORDING" value="false"/>
@@ -292,6 +287,9 @@
     <local name="SUPPORT_PRO_RESET" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_RESET" value="true" />	
     <local name="SUPPORT_PRO_VIDEO_RESOLUTION_SETTING" value="true" />
+    <local name="SUPPORT_HISTOGRAM" value="true"/>
+    <local name="SUPPORT_PRO_VIDEO_FOCUS_PEAKING" value="true"/>
+    <local name="SUPPORT_PRO_VIDEO_ZOOM_ROCKER" value="true"/>
 
     <!-- seamless zoom -->
     <local name="REAR_WIDE_ONLY_IN_NIGHT_MODE_SEAMLESS_ZOOM_LITE" value="true"/>
