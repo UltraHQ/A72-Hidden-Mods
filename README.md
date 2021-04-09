@@ -13,13 +13,15 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Voice Recorder Interview mode
 - AOD to lockscreen transition
 - Full edge lighting
+- Fixed Smart View (Normally broken on rooted devices)
+
 
 #### Added camera features:
 - Extended pro (video) mode features: Histogram, Focus peaking, zoom, reset button, expanded shutter speed
 - Unlimited video file size
-- Switch camera (back/front) while recording (Bug: When switching, camera is upside down)
 - 24FPS mode for 4K and FHD (Pro mode)
 - Second editing in Single Take
+- Full Single take (with AI)
 - Beauty feature in live focus
 - Torch flash in live focus
 - Review feature
