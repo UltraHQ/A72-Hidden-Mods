@@ -19,9 +19,9 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 #### Added camera features:
 - Extended pro (video) mode features: Histogram, Focus peaking, zoom, reset button, expanded shutter speed
 - Unlimited video file size
-- 24FPS mode for 4K and FHD (Pro mode)
 - Second editing in Single Take
 - Full Single take (with AI)
 - Beauty feature in live focus
 - Torch flash in live focus
 - Review feature
+- Audio input control (In pro video mode - only internal microphone)
