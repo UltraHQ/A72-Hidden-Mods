@@ -11,7 +11,7 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Enhanced CPU Responsiveness
 - Added High Performance mode
 - Voice Recorder Interview mode
-- AOD to lockscreen transition
+- AOD to Lockscreen transition
 - Full edge lighting
 - Fixed Smart View (Normally broken on rooted devices)
 
