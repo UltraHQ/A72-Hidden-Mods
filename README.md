@@ -24,4 +24,4 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Beauty feature in live focus
 - Torch flash in live focus
 - Review feature
-- Audio input control (In pro video mode - only internal microphone)
+- Audio Input Control (In pro video mode - only internal microphone)
