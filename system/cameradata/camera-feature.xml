@@ -287,6 +287,7 @@
     <local name="SUPPORT_HISTOGRAM" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_FOCUS_PEAKING" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_ZOOM_ROCKER" value="true"/>
+    <local name="SUPPORT_PRO_VIDEO_AUDIO_INPUT_CONTROL" value="true"/>
 
     <!-- seamless zoom -->
     <local name="REAR_WIDE_ONLY_IN_NIGHT_MODE_SEAMLESS_ZOOM_LITE" value="true"/>
