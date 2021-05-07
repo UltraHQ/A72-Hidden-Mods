@@ -91,7 +91,7 @@
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_3840X2160" value="true" hdr="false" hdr10="false" preview-size="1920x1080" snapshot-support="true" snapshot-size="4624x2604" vdis="false" super-vdis="false" effect="false" object-tracking="false" external-storage-support="true"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080" value="true" hdr="true" hdr10="false" preview-size="1920x1080" snapshot-support="true" snapshot-size="4624x2604" vdis="true" super-vdis="true" effect="true" object-tracking="false" external-storage-support="true"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_60FPS" value="true" hdr="false" hdr10="false" preview-size="1920x1080" snapshot-support="true" snapshot-size="4624x2604" vdis="false" super-vdis="false" effect="false" object-tracking="false" external-storage-support="true" seamless-zoom-support="false" uw-support="false"/>
-    <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1440X1440" value="true" hdr="true" hdr10="false" preview-size="1088x1088" snapshot-support="true" snapshot-size="3472x3472" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true"/>
+	<local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1440X1440" value="true" hdr="true" hdr10="false" preview-size="1088x1088" snapshot-support="true" snapshot-size="3472x3472" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1280X720" value="true" hdr="true" hdr10="false" preview-size="1280x720" snapshot-support="true" snapshot-size="4624x2604" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_2400X1080" value="true" hdr="true" hdr10="false" preview-size="2400x1080" snapshot-support="true" snapshot-size="4624x2084" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true"/>    
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1440" value="false" hdr="false" hdr10="false" preview-size="1920x1440" snapshot-support="true" snapshot-size="4624x3468" vdis="true" effect="true" object-tracking="false"/>	
@@ -126,6 +126,7 @@
     <!-- Intelligent recognition -->
     <local name="SUPPORT_INTELLIGENT_GUIDE_TIPS" value="true" />
     <local name="SUPPORT_INTELLIGENT_RECOGNITION_TIPS" value="true" />
+    <local name="SUPPORT_CLOSE_UP_SUGGESTION" value="true"/>
 
     <!-- Live focus & bokeh -->
     <local name="SUPPORT_LIVE_FOCUS_TORCH_FLASH" value="true"/>
@@ -136,8 +137,8 @@
     <local name="SUPPORT_BIG_CIRCLE_BOKEH_EFFECT" value="true" />	
     <local name="SUPPORT_TOUCH_EV" value="true" />
     <local name="SUPPORT_LIVE_FOCUS_LENS_TYPE_CHANGE" value="false" />
+    <local name="SUPPORT_LIVE_FOCUS_SCENE_DETECTION_MODE" value="true"/>
 
-	
     <!-- Composition guide -->
     <local name="SUPPORT_COMPOSITION_GUIDE" value="true" />
 
@@ -166,11 +167,14 @@
     <local name="SUPPORT_BACK_VIDEO_BEAUTY" value="true"/>
     <local name="SUPPORT_WIDE_LENS_CORRECTION" value="true" />
     <local name="SUPPORT_BEAUTY_BRIGHTEN" value="true" />
+    <local name="SUPPORT_LIVE_BEAUTY_SKIN_COLOR" value="true" />
 
     <!-- Super Slow Motion features -->
     <local name="SUPER_SLOW_MOTION_MAX_FRC_TIME" value="400"/>
     <local name="SUPPORT_SUPER_SLOW_MOTION_AUTO_DETECTION" value="false"/>
     <local name="SUPPORT_SUPER_RESOLUTION" value="true"/>
+    <local name="SUPPORT_SUPER_LARGE_RESOLUTION_ZOOM" value="true"/>
+    <local name="SUPPORT_FRONT_SENSOR_CROP_SUPER_LARGE_RESOLUTION" value="true" />
 
     <!-- HEIF format -->
     <local name="SUPPORT_HEIF_FORMAT" value="true"/>
@@ -205,6 +209,8 @@
     <local name="CAMERA_SUPPORT_PICTURE_FORMAT" value="false"/>
 
     <local name="SUPPORT_POST_PICTURE_PROCESSING" value="true"/>
+    <local name="SUPPORT_POST_PICTURE_PROCESSING_FOR_EFFECTS" value="true"/>
+    <local name="SUPPORT_POST_PROCESSING_NIGHT_SHOT" value="true"/>
 
     <!-- Single take features -->
     <local name="SUPPORT_SINGLE_TAKE_FRONT_AF" value="true" />
@@ -216,8 +222,8 @@
     <local name="REAR_SINGLE_TAKE_PHOTO_PREVIEW_FPS_MIN" value="15" />
     <local name="FRONT_SINGLE_TAKE_PHOTO_PREVIEW_FPS_MAX" value="24" />
     <local name="REAR_SINGLE_TAKE_PHOTO_PREVIEW_FPS_MAX" value="24" />
-    <local name="SINGLE_TAKE_USING_BEAUTY" value="false" />
-    <local name="SUPPORT_PALM_DETECTION_LITE" value="false" />
+    <local name="SINGLE_TAKE_USING_BEAUTY" value="true" />
+    <local name="SUPPORT_PALM_DETECTION_LITE" value="true" />
     <local name="SINGLE_TAKE_FRONT_CAMERA_DYNAMIC_FOV" value="false" />
     <local name="SINGLE_TAKE_USING_SINGLE_LENS_ONLY" value="true" />
     <local name="SINGLE_TAKE_PHOTO_LOW_PERFORMANCE" value="true" />
