@@ -22,6 +22,8 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Second editing in Single Take
 - Full Single take (with AI)
 - Beauty feature in live focus
+- Support changing skin tone in beauty
 - Torch flash in live focus
 - Review feature
 - Audio Input Control (In pro video mode - only internal microphone)
+- Some small additions
