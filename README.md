@@ -14,6 +14,7 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - AOD to Lockscreen transition
 - Full edge lighting
 - Fixed Smart View (Normally broken on rooted devices)
+- Fixed S-Health (Normally broken on rooted devices)
 
 
 #### Added camera features:
