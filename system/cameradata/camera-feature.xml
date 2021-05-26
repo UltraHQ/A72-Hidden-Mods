@@ -262,6 +262,7 @@
 	<local name="USE_KEY_SCREEN_INFLATION_DELAY" value="true" />
     <local name="SUPPORT_VIDEO_PALM_DETECTION" value="true"/>
     <local name="SUPPORT_TRUE_HDR" value="true"/>
+    <local name="SUPPORT_VDIS_CENTER_CROP_FOR_PREVIEW_RECORDING" value="true"/>
     <local name="SUPPORT_EXPAND_SHUTTER_SPEED" value="true"/>
     <local name="SUPPORT_UNLIMITED_VIDEO_FILE_SIZE" value="true"/>	
 
