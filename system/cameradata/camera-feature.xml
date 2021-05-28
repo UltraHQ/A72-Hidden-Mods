@@ -143,9 +143,9 @@
     <local name="SUPPORT_COMPOSITION_GUIDE" value="true" />
 
     <!-- Additional effects like live bokeh/motion photo/star effect in labs -->
-    <local name="SUPPORT_ADDITIONAL_EFFECTS_WITH_SCENE_DETECTION" value="false" />
+    <local name="SUPPORT_ADDITIONAL_EFFECTS_WITH_SCENE_DETECTION" value="true" />
     <local name="SUPPORT_SCENE_DETECTION_LITE" value="false" />
-    <local name="SUPPORT_ADDITIONAL_SCENE_BRIGHT_NIGHT" value="false" />
+    <local name="SUPPORT_ADDITIONAL_SCENE_BRIGHT_NIGHT" value="true" />
     <local name="SUPPORT_NIGHT_MODE_FRONT_ANGLE" value="true" />
     <local name="SUPPORT_REVIEW" value="true"/>
 
