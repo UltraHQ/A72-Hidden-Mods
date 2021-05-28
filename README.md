@@ -27,4 +27,5 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Torch flash in live focus
 - Review feature
 - Audio Input Control (In pro video mode - only internal microphone)
+- Improved Scene Detection
 - Some small additions
