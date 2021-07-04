@@ -124,6 +124,7 @@
     <local name="SUPPORT_TAP_AND_HOLD_CAMERA_BUTTON" value="true" />
 
     <!-- Intelligent recognition -->
+    <local name="SUPPORT_LENS_DIRTY_DETECTION" value="true" />
     <local name="SUPPORT_INTELLIGENT_GUIDE_TIPS" value="true" />
     <local name="SUPPORT_INTELLIGENT_RECOGNITION_TIPS" value="true" />
     <local name="SUPPORT_CLOSE_UP_SUGGESTION" value="true"/>
@@ -216,6 +217,7 @@
     <local name="SUPPORT_SINGLE_TAKE_FRONT_AF" value="true" />
     <local name="SINGLE_TAKE_USING_SINGLE_LENS_ONLY" value="true" />
     <local name="SINGLE_TAKE_CAPTURE_INTERVAL" value="1000"/>
+    <local name="REAR_SINGLE_TAKE_CAPTURE_INTERVAL" value="1200"/>
     <local name="SINGLE_TAKE_USING_CONTINUOUS_AF" value="true"/>
     <local name="SINGLE_TAKE_USING_SCENE_OPTIMIZER" value="true"/>
     <local name="FRONT_SINGLE_TAKE_PHOTO_PREVIEW_FPS_MIN" value="8" />
@@ -263,6 +265,7 @@
     <local name="SUPPORT_VIDEO_PALM_DETECTION" value="true"/>
     <local name="SUPPORT_TRUE_HDR" value="true"/>
     <local name="SUPPORT_VDIS_CENTER_CROP_FOR_PREVIEW_RECORDING" value="true"/>
+    <local name="SUPPORT_CLEAN_UP_TEMP_FILE_ON_BACKGROUND" value="true"/>
     <local name="SUPPORT_EXPAND_SHUTTER_SPEED" value="true"/>
     <local name="SUPPORT_UNLIMITED_VIDEO_FILE_SIZE" value="true"/>	
 
