@@ -3,7 +3,7 @@
 A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) and his [NcX Rom](https://forum.xda-developers.com/t/rom-oneui-2-5-twrp-ncx-2-5-for-a71-sm-a715f.4174135/) plus some extra mods systemlessly, now ported to the Galaxy A72!<br/>
 Thanks ShaDisNX255 for contributing so much! Many features came from him.
 
-### For native Call Recording and AppLock also get: https://github.com/UltraHQ/A72-CSC-Mods
+### For native Call Recording and AppLock also get: [A72-CSC-Mods](https://github.com/UltraHQ/A72-CSC-Mods)
 
 Installation:
 1. Download the module from the releases
