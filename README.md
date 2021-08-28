@@ -1,3 +1,4 @@
+![a72banner](https://user-images.githubusercontent.com/35925402/131203435-a38477ea-4984-4994-be2b-3b317735251a.png)
 # A72-Hidden-Mods
 A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) and his [NcX Rom](https://forum.xda-developers.com/t/rom-oneui-2-5-twrp-ncx-2-5-for-a71-sm-a715f.4174135/) plus some extra mods systemlessly, now ported to the Galaxy A72!<br/>
 Thanks ShaDisNX255 for contributing so much! Many features came from him.
