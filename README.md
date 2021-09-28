@@ -14,7 +14,7 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 
 > Note: It should only be used on the Galaxy A72 (SM-A725F) running Android 11 with the corresponding android security patch version as written in the releases. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
 
-#### Added OS features:
+#### Added OS Features:
 - Higher Audio Quality (Disabled DRC, which deeply compresses audio)
 - Disabled Samsung Marketing
 - High-End Animations
@@ -30,7 +30,7 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - Updated AOD Engine
 
 
-#### Added camera features:
+#### Added Camera Features:
 - Extended pro (video) mode features: Histogram, Focus peaking, zoom, reset button, expanded shutter speed
 - Unlimited Video File Size
 - Second editing in Single Take
