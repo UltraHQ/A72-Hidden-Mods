@@ -31,7 +31,7 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 
 
 #### Added Camera Features:
-- Extended pro (video) mode features: Histogram, Focus peaking, zoom, reset button, expanded shutter speed
+- Extended pro (video) mode features: Histogram, Focus peaking, Zoom, Reset button, Expanded shutter speed
 - Unlimited Video File Size
 - Second editing in Single Take
 - Full Single take (with AI)
