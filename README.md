@@ -37,7 +37,7 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - Full Single take (with AI)
 - Beauty Feature in Live Focus
 - Beauty Brighten
-- Support changing skin tone in beauty
+- Support changing Skin Tone in Beauty
 - Torch Flash in Live Focus
 - Review feature
 - Audio Input Control (In pro video mode - Limitation: Only internal microphone)
