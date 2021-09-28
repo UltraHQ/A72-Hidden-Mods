@@ -167,6 +167,7 @@
     <local name="SUPPORT_SMART_BEAUTY_GLOBAL" value="true"/>
     <local name="SUPPORT_LIVE_BEAUTY_SHAPE_CORRECTION" value="false"/>
     <local name="SUPPORT_BACK_VIDEO_BEAUTY" value="true"/>
+    <local name="SUPPORT_BEAUTY_BRIGHTEN" value="true"/>
     <local name="SUPPORT_WIDE_LENS_CORRECTION" value="true" />
     <local name="SUPPORT_BEAUTY_BRIGHTEN" value="true" />
     <local name="SUPPORT_LIVE_BEAUTY_SKIN_COLOR" value="true" />
@@ -211,8 +212,10 @@
     <local name="CAMERA_SUPPORT_PICTURE_FORMAT" value="false"/>
 
     <local name="SUPPORT_POST_PICTURE_PROCESSING" value="true"/>
+    <local name="SUPPORT_POST_PROCESSING_MOTION_PHOTO" value="true"/>
     <local name="SUPPORT_POST_PICTURE_PROCESSING_FOR_EFFECTS" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_NIGHT_SHOT" value="true"/>
+    <local name="SUPPORT_POST_PROCESSING_MAX_NIGHT_SHOT" value="true"/>
 
     <!-- Single take features -->
     <local name="SUPPORT_SINGLE_TAKE_FRONT_AF" value="true" />
@@ -241,6 +244,7 @@
     <local name="SUPPORT_HEVC_VIDEO_ENCODER" value="true" />
     <local name="SUPPORT_FRONT_VIDEO_BEAUTY" value="true" />
     <local name="SUPPORT_SUPER_VIDEO_STABILIZATION" value="true" />
+    <local name="SUPPORT_RECORDING_MULTI_MIC_ZOOM_FOCUS" value="true"/>
     <local name="SUPPORT_LEVEL_METER" value="true"/>
     <local name="SUPPORT_ADVANCED_RECORDING_OPTIONS" value="true"/>
     <local name="SUPPORT_SENSOR_CROP" value="true"/>
@@ -268,7 +272,8 @@
     <local name="SUPPORT_VDIS_CENTER_CROP_FOR_PREVIEW_RECORDING" value="true"/>
     <local name="SUPPORT_CLEAN_UP_TEMP_FILE_ON_BACKGROUND" value="true"/>
     <local name="SUPPORT_EXPAND_SHUTTER_SPEED" value="true"/>
-    <local name="SUPPORT_UNLIMITED_VIDEO_FILE_SIZE" value="true"/>	
+    <local name="SUPPORT_UNLIMITED_VIDEO_FILE_SIZE" value="true"/>
+    <local name="SUPPORT_NIGHT_CAPTURE_STOP" value="true"/>
 
     <!-- Advance option HDR10+ Video Recording -->
     <local name="SUPPORT_HDR10_PLUS_RECORDING" value="false"/>
