@@ -47,4 +47,6 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - S-Series Photo Processing
 - S-Series AI-Models (And the latest ones)
 - Video Audio Zoom
+- Full Intelligent Recognition
+- Full Live Focus (all S-Series features)
 - Some small, not worth to mention, additions
