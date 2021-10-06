@@ -46,7 +46,7 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - Audio Input Control (In pro video mode - Limitation: Only internal microphone)
 - Improved Scene Detection
 - S-Series Photo Processing
-- S-Series AI-Models (And the latest ones)
+- S-Series AI-Models & AI Features
 - Video Audio Zoom
 - Full Intelligent Recognition
 - Full Live Focus (all S-Series features like Relight)
