@@ -135,11 +135,13 @@
     <local name="SUPPORT_BOKEH_FOCUSED_REGION" value="true"/>
     <local name="SUPPORT_LIVE_FOCUS_HDR_CAPTURE" value="true"/>
     <local name="SUPPORT_VIDEO_BOKEH_EFFECT" value="true"/>	
-    <local name="SUPPORT_LIVE_FOCUS_VIDEO_BEAUTY" value="true"/>	
     <local name="SUPPORT_BIG_CIRCLE_BOKEH_EFFECT" value="true" />	
     <local name="SUPPORT_TOUCH_EV" value="true" />
     <local name="SUPPORT_LIVE_FOCUS_LENS_TYPE_CHANGE" value="false" />
     <local name="SUPPORT_LIVE_FOCUS_SCENE_DETECTION_MODE" value="true"/>
+    <local name="SUPPORT_DUAL_BOKEH_EFFECT" value="true"/>      
+    <local name="SUPPORT_SINGLE_BOKEH_EFFECT" value="true"/>
+    <local name="SUPPORT_LIVE_FOCUS_RELIGHT" value="true"/>
 
     <!-- Composition guide -->
     <local name="SUPPORT_COMPOSITION_GUIDE" value="true" />
@@ -166,10 +168,10 @@
     <local name="SUPPORT_LIVE_BEAUTY_MANUAL_RESHAPE" value="false"/>
     <local name="SUPPORT_SMART_BEAUTY_GLOBAL" value="true"/>
     <local name="SUPPORT_LIVE_BEAUTY_SHAPE_CORRECTION" value="false"/>
+    <local name="SUPPORT_BODY_BEAUTY" value="true"/>
     <local name="SUPPORT_BACK_VIDEO_BEAUTY" value="true"/>
     <local name="SUPPORT_BEAUTY_BRIGHTEN" value="true"/>
     <local name="SUPPORT_WIDE_LENS_CORRECTION" value="true" />
-    <local name="SUPPORT_BEAUTY_BRIGHTEN" value="true" />
     <local name="SUPPORT_LIVE_BEAUTY_SKIN_COLOR" value="true" />
 
     <!-- Super Slow Motion features -->
@@ -250,6 +252,7 @@
     <local name="SUPPORT_SENSOR_CROP" value="true"/>
     <local name="SUPPORT_ADDITIONAL_SCENE_DOCUMENT_SCAN" value="true" />
     <local name="SUPPORT_SMART_SCAN_MANUAL_CROP" value="true" />
+    <local name="SUPPORT_SMART_SCAN_EXTRACT_TEXT" value="true"/>
     <local name="LIMITATION_SUPER_SLOWMOTION_DURING_SMARTVIEW" value="true" />
     <local name="LIMITATION_SLOWMOTION_DURING_SMARTVIEW" value="true" />
     <local name="LIMITATION_UHD_RECORDING_DURING_SMARTVIEW" value="true" />
