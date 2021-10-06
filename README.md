@@ -49,6 +49,6 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - S-Series AI-Models & AI Features
 - Video Audio Zoom
 - Full Intelligent Recognition
-- Full Live Focus (all S-Series features like Relight)
+- Full Live Focus (all S-Series features)
 - Smart Scan Text Extraction
 - Some small, not worth to mention, additions
