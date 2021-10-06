@@ -39,6 +39,7 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - Full Single take (with AI)
 - Beauty Feature in Live Focus
 - Beauty Brighten
+- Body Beauty
 - Support changing Skin Tone in Beauty
 - Torch Flash in Live Focus
 - Review feature
@@ -48,5 +49,6 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - S-Series AI-Models (And the latest ones)
 - Video Audio Zoom
 - Full Intelligent Recognition
-- Full Live Focus (all S-Series features)
+- Full Live Focus (all S-Series features like Relight)
+- Smart Scan Text Extraction
 - Some small, not worth to mention, additions
