@@ -2,7 +2,7 @@
 <resources>
     <!-- Shootingmode -->
     <local name="SHOOTING_MODE_FUN" back="FUN" front="FUN" enable="true" more="false" order="1" /> 
-    <local name="SHOOTING_MODE_SINGLE_TAKE_PHOTO" back="SINGLE_TAKE_PHOTO" front="SINGLE_TAKE_PHOTO" enable="true" more="false" order="2" preview-size="1440x1080" capture-size="3264x2448" front-capture-size="2944x2208" info="1" big-info="true"/>
+    <local name="SHOOTING_MODE_SINGLE_TAKE_PHOTO" back="SINGLE_TAKE_PHOTO" front="SINGLE_TAKE_PHOTO" enable="true" more="false" order="2" preview-size="1440x1080" capture-size="3264x2448" front-capture-size="2944x2208" info="1"/>
     <local name="SHOOTING_MODE_PHOTO" back="PHOTO" front="PHOTO" enable="true" more="false" order="3" />
     <local name="SHOOTING_MODE_VIDEO" back="VIDEO" front="VIDEO" enable="true" more="false" order="4" />
     <local name="SHOOTING_MODE_AR_DOODLE" back="AR_DOODLE" enable="true" more="true" order="5"/>
