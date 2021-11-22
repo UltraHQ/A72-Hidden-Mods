@@ -177,6 +177,7 @@
 
     <!-- Super Slow Motion features -->
     <local name="SUPER_SLOW_MOTION_MAX_FRC_TIME" value="400"/>
+    <local name="SUPPORT_SUPER_SLOW_MOTION_AUTO_DETECTION" value="false"/>
     <local name="SUPPORT_SUPER_RESOLUTION" value="true"/>
     <local name="SUPPORT_SUPER_LARGE_RESOLUTION_ZOOM" value="true"/>
     <local name="SUPPORT_FRONT_SENSOR_CROP_SUPER_LARGE_RESOLUTION" value="true" />
