@@ -200,7 +200,7 @@
     <!-- AF features -->
     <local name="SUPPORT_MULTI_AF" value="false"/>
     <local name="SUPPORT_OBJECT_TRACKING_AF" value="false" />
-    <local name="SUPPORT_FAST_REACTIVE_AF" value="false" />
+    <local name="SUPPORT_FAST_REACTIVE_AF" value="true" />
     <local name="SUPPORT_DIVIDE_AE_AF" value="true" />
 
     <!-- Seamless camera switching related features -->
@@ -282,6 +282,7 @@
     <local name="SUPPORT_UNLIMITED_VIDEO_FILE_SIZE" value="true"/>
     <local name="SUPPORT_NIGHT_CAPTURE_STOP" value="true"/>
     <local name="SUPPORT_PHOTO_NIGHT" value="true"/>
+    <local name="SUPPORT_TOUCH_VIBRATIONS" value="true"/>
 
     <!-- Advance option HDR10+ Video Recording -->
     <local name="SUPPORT_HDR10_PLUS_RECORDING" value="false"/>
@@ -312,6 +313,7 @@
     <local name="SUPPORT_PRO_VIDEO_FOCUS_PEAKING" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_ZOOM_ROCKER" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_AUDIO_INPUT_CONTROL" value="true"/>
+    <local name="SUPPORT_PRO_COLOR_TUNE_TEMPERATURE" value="true"/>
 
     <!-- seamless zoom -->
     <local name="REAR_WIDE_ONLY_IN_NIGHT_MODE_SEAMLESS_ZOOM_LITE" value="true"/>
