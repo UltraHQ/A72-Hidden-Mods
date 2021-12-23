@@ -149,6 +149,7 @@
 
     <!-- Additional effects like live bokeh/motion photo/star effect in labs -->
     <local name="SUPPORT_ADDITIONAL_EFFECTS_WITH_SCENE_DETECTION" value="true" />
+    <local name="SUPPORT_STAR_BURST" value="true" />
     <local name="SUPPORT_SCENE_DETECTION_LITE" value="false" />
     <local name="SUPPORT_ADDITIONAL_SCENE_BRIGHT_NIGHT" value="true" />
     <local name="SUPPORT_NIGHT_MODE_FRONT_ANGLE" value="true" />
@@ -214,6 +215,7 @@
     <!-- Support picture format -->
     <local name="CAMERA_SUPPORT_PICTURE_FORMAT" value="false"/>
 
+    <!-- Post processing -->
     <local name="SUPPORT_POST_PICTURE_PROCESSING" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_MOTION_PHOTO" value="true"/>
     <local name="SUPPORT_POST_PICTURE_PROCESSING_FOR_EFFECTS" value="true"/>
