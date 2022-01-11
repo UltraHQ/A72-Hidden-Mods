@@ -233,8 +233,8 @@
     <local name="REAR_SINGLE_TAKE_PHOTO_PREVIEW_FPS_MIN" value="15" />
     <local name="FRONT_SINGLE_TAKE_PHOTO_PREVIEW_FPS_MAX" value="24" />
     <local name="REAR_SINGLE_TAKE_PHOTO_PREVIEW_FPS_MAX" value="24" />
-    <local name="SINGLE_TAKE_USING_BEAUTY" value="false" />
-    <local name="SUPPORT_PALM_DETECTION_LITE" value="false" />
+    <local name="SINGLE_TAKE_USING_BEAUTY" value="true" />
+    <local name="SUPPORT_PALM_DETECTION_LITE" value="true" />
     <local name="SINGLE_TAKE_FRONT_CAMERA_DYNAMIC_FOV" value="false" />
     <local name="SINGLE_TAKE_USING_SINGLE_LENS_ONLY" value="true" />
     <local name="SINGLE_TAKE_PHOTO_LOW_PERFORMANCE" value="true" />
