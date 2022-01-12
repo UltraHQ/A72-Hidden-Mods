@@ -277,7 +277,7 @@
     <local name="USING_MAX_RESOLUTION_STAMP_IN_WATERMARK" value="true"/>
     <local name="SUPPORT_ZOOM_MAP_VIEW" value="true"/>
     <local name="SUPPORT_NIGHT_MODE_ZOOM" value="true"/>
-	<local name="USE_KEY_SCREEN_INFLATION_DELAY" value="true" />
+    <local name="USE_KEY_SCREEN_INFLATION_DELAY" value="true" />
     <local name="SUPPORT_VIDEO_PALM_DETECTION" value="true"/>
     <local name="SUPPORT_TRUE_HDR" value="true"/>
     <local name="SUPPORT_VDIS_CENTER_CROP_FOR_PREVIEW_RECORDING" value="true"/>
