@@ -21,7 +21,7 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - Disabled Samsung Marketing
 - High-End Animations
 - Enhanced CPU Responsiveness
-- Added High Performance mode
+- Added High Performance mode (also known as Enhanced Processing mode)
 - Voice Recorder Interview mode
 - AOD to Lockscreen Transition
 - Full Edge Lighting
@@ -32,6 +32,8 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - Updated AOD Engine
 - Codec support for APE, DSD and HDR10+ content
 - Camera Privacy Toggle
+- ADPS (Wi-Fi Power Saving)
+- Enabled [mDNIe](https://www.samsung.com/global/galaxy/what-is/mdnie/)
 
 
 #### Added Camera Features:
