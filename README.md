@@ -31,6 +31,7 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - Updated AOD Doze Service
 - Updated AOD Engine
 - Codec support for APE, DSD and HDR10+ content
+- Camera Privacy Toggle
 
 
 #### Added Camera Features:
