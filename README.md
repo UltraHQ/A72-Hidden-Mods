@@ -14,7 +14,7 @@ Installation:
 
 In case the camera app is crashing, when for example selecting pro video mode, delete the camera app data and the issue should be gone.
 
-> Note: It should only be used on the Galaxy A72 (SM-A725F) running Android 11 with the corresponding android security patch version as written in the releases. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
+> Note: It should only be used on the Galaxy A72 (SM-A725F) running the corresponding android security patch version as written in the releases. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
 
 #### Added OS Features:
 - Higher Audio Quality (Disabled DRC, which deeply compresses audio)
