@@ -56,6 +56,7 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - Full Intelligent Recognition
 - Full Live Focus (all S-Series features, like Bokeh)
 - Smart Scan Text Extraction
+- [Galaxy Watch Camera Controller](https://www.samsung.com/us/support/answer/ANS00084676/)
 - Some small, not worth to mention, additions
 
 #### Known bugs:
