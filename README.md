@@ -5,16 +5,21 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 
 [XDA Thread of A72 Hidden Mods](https://forum.xda-developers.com/t/magisk-module-a72-hidden-mods.4258825/)
 
-### For more mods on CSC-Level also get: [A72-CSC-Mods](https://github.com/UltraHQ/A72-CSC-Mods)
+#### For more mods on CSC-Level also get: [A72-CSC-Mods](https://github.com/UltraHQ/A72-CSC-Mods)
 
-Installation:
+### Installation:
 1. Download the module from the releases
 2. Open the magisk app and go to modules
 3. Click the "Install from storage" button and select the .zip you just downloaded 
 
-In case the camera app is crashing, when for example selecting pro video mode, delete the camera app data and the issue should be gone.
-
 > Note: It should only be used on the Galaxy A72 (SM-A725F) running the corresponding android security patch version as written in the releases. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
+
+### Troubleshooting:
+If camera app crashes (or other issues like error on 64MP mode) please clear camera app data.
+
+### Known bugs:
+- Night Mode in camera: Taking a photo with the ultra wide cam will give you an error, but the photo will still save. The main cam does not have this problem. This issue is only present in night mode and nowhere else.
+- Please report, if you find any
 
 #### Added OS Features:
 - Higher Audio Quality (Disabled DRC, which deeply compresses audio)
@@ -59,6 +64,3 @@ In case the camera app is crashing, when for example selecting pro video mode, d
 - [Galaxy Watch Camera Controller](https://www.samsung.com/us/support/answer/ANS00084676/)
 - Higher Gallery Zoom Quality
 - Some small, not worth to mention, additions
-
-#### Known bugs:
-- Night Mode in camera: Taking a photo with the ultra wide cam will give you an error, but the photo will still save. The main cam does not have this problem. This issue is only present in night mode and nowhere else.
