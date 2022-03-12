@@ -2,4 +2,5 @@
 Running on devices with another patch can cause issues!
 
 ---
-<b>v2.3.1 | Changelog:</b><br/>• Fixed portrait mode sometimes not applying on front camera
+<b>v2.3.1 | Changelog:
+<br/>• Fixed portrait mode sometimes not applying on front camera
