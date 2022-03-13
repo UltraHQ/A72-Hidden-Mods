@@ -41,7 +41,6 @@ If camera app crashes (or other issues like error on 64MP mode) please clear cam
 - Enabled [mDNIe](https://www.samsung.com/global/galaxy/what-is/mdnie/)
 - Enabled Resolution changing (FHD, HD - only visible in Bixby Routines)
 - Setting to limit battery charge to 85%
-- Setting to disable Super Fast Charging
 
 
 #### Added Camera Features:
