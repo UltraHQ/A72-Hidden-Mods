@@ -1,6 +1,6 @@
-### Only for the Android 12 December security patch (A725FXXU4BULA)
+### Only for the Android 12 February security patch (A725FXXU4BVB4)
 Running on devices with another patch can cause issues!
 
 ---
-<b>v2.3.6 | Changelog:</b>
-<br/>• Added setting to limit charge to 85%<br/>• Fixed camera sometimes crashing in 64MP mode<br/>• Non-important small fix
+<b>v2.3.7 | Changelog:</b>
+<br/>• Updated module to the latest android security patch
