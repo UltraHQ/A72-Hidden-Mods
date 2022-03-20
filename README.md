@@ -45,24 +45,24 @@ If camera app crashes (or other issues like error on 64MP mode) please clear cam
 
 #### Added Camera Features:
 - Extended pro (video) mode features: Histogram, Focus peaking, Zoom, Reset button, Expanded shutter speed
+- Tele cam in pro mode
 - Unlimited Video File Size
 - EIS Support / Video stabilization @ 4K (Disable energy saving mode to avoid lag)
-- Second editing in Single Take
+- AI Improve Details feature (64MP mode)
+- Full single take (Like Second Editing)
 - Full Single take (with AI)
-- Beauty Feature in Live Focus
-- Beauty Brighten
-- Body Beauty
-- Support changing Skin Tone in Beauty
+- Full Beauty features (Beauty in Live Focus, Beauty Brighten, Body Beauty, change skin tone)
 - Torch Flash in Live Focus
 - Review feature
 - Audio Input Control (In pro video mode - Limitation: Only internal microphone)
 - Improved Scene Detection
 - S-Series Photo Processing
 - S-Series AI-Models & AI Features
+- S-Series Remaster photo feature (Denoise, Deblur, Moire, Upscale, Photopolish and more added)
 - Video Audio Zoom
-- Full Intelligent Recognition
-- Full Live Focus (all S-Series features, like Bokeh)
-- Smart Scan Text Extraction
+- Full Intelligent Recognition (like Smart Scan Text Extraction)
+- Full Live Focus (all S-Series effects)
 - [Galaxy Watch Camera Controller](https://www.samsung.com/us/support/answer/ANS00084676/)
 - Higher Gallery Zoom Quality
-- Some small, not worth to mention, additions
+- Video Auto FPS
+- Many, not worth to mention, additions
