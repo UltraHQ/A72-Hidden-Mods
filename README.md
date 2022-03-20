@@ -45,7 +45,7 @@ If camera app crashes (or other issues like error on 64MP mode) please clear cam
 
 #### Added Camera Features:
 - Extended pro (video) mode features: Histogram, Focus peaking, Zoom, Reset button, Expanded shutter speed
-- Tele cam in pro mode
+- Tele cam in pro mode (Take videos with 30x zoom!)
 - Unlimited Video File Size
 - EIS Support / Video stabilization @ 4K (Disable energy saving mode to avoid lag)
 - AI Improve Details feature (64MP mode)
