@@ -2,7 +2,7 @@
 <resources>
     <!-- Shootingmode -->
     <local name="SHOOTING_MODE_SINGLE_TAKE_PHOTO" back="SINGLE_TAKE_PHOTO" front="SINGLE_TAKE_PHOTO" enable="true" more="false" order="1" preview-size="1440x1080" capture-size="3264x2448" front-capture-size="2944x2208" info="1"/>
-    <local name="SHOOTING_MODE_LIVE_FOCUS" back="LIVE_FOCUS" front="LIVE_FOCUS_LITE" enable="true" more="false" order="11" info="2"/>
+    <local name="SHOOTING_MODE_LIVE_FOCUS" back="LIVE_FOCUS" front="SELFIE_FOCUS" enable="true" more="false" order="11" info="2"/>
     <local name="SHOOTING_MODE_PHOTO" back="PHOTO" front="PHOTO" enable="true" more="false" order="3" />
     <local name="SHOOTING_MODE_VIDEO" back="VIDEO" front="VIDEO" enable="true" more="false" order="4" />
     <local name="SHOOTING_MODE_FUN" back="FUN" front="FUN" enable="false" more="false" order="5" />
@@ -131,6 +131,8 @@
     <local name="SUPPORT_INTELLIGENT_RECOGNITION_TIPS" value="true" />
     <local name="SUPPORT_CLOSE_UP_SUGGESTION" value="true"/>
     <local name="SUPPORT_FOCUS_GUIDE" value="true"/>
+    <local name="SUPPORT_SUPER_RESOLUTION_SMART_TIPS" value="true" />
+
 
     <!-- Live focus & bokeh -->
     <local name="SUPPORT_LIVE_FOCUS_TORCH_FLASH" value="true"/>
@@ -176,6 +178,7 @@
     <local name="SUPPORT_WIDE_LENS_CORRECTION" value="true" />
     <local name="SUPPORT_BEAUTY_BRIGHTEN" value="true" />
     <local name="SUPPORT_LIVE_BEAUTY_SKIN_COLOR" value="true" />
+    <local name="SUPPORT_SELFIE_TONE_MODE" value="true"/>
 
     <!-- Super Slow Motion features -->
     <local name="SUPER_SLOW_MOTION_MAX_FRC_TIME" value="400"/>
@@ -222,6 +225,7 @@
     <local name="SUPPORT_POST_PICTURE_PROCESSING_FOR_EFFECTS" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_NIGHT_SHOT" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_MAX_NIGHT_SHOT" value="true"/>
+    <local name="SUPPORT_NIGHT_CAPTURE_STOP" value="true"/>
 
     <!-- Single take features -->
     <local name="SINGLE_TAKE_USING_SINGLE_LENS_ONLY" value="true" />
@@ -288,6 +292,8 @@
     <local name="SUPPORT_NIGHT_CAPTURE_STOP" value="true"/>
     <local name="SUPPORT_PHOTO_NIGHT" value="true"/>
     <local name="SUPPORT_TOUCH_VIBRATIONS" value="true"/>
+    <local name="SUPPORT_VIDEO_AUTO_FPS" value="true"/>
+    <local name="SUPPORT_DISPLAY_FRAME_RATE_60HZ" value="true"/>
 
     <!-- Advance option HDR10+ Video Recording -->
     <local name="SUPPORT_HDR10_PLUS_RECORDING" value="false"/>
@@ -298,17 +304,17 @@
 
     <!-- temporary enable for QC -->
     <local name="SUPPORT_SAVE_AS_FLIPPED_IN_MEDIA_RECORDER" value="true" />
-	
-    <local name="SUPPORT_SUPER_RESOLUTION_SMART_TIPS" value="true" />
-	
+		
     <local name="SUPPORT_MACRO_NUDGE" value="true" />
 	
     <!-- Guide Line percentage --> 
     <local name="TOP_GUIDE_LINE" value="0.14"/> 
     <local name="BOTTOM_GUIDE_LINE" value="0.74"/>
     <local name="SHUTTER_AREA_GUIDE_LINE" value="0.820f"/>
+    <local name="KEEP_CHANGED_EV_AFTER_ZOOM" value="true"/>
 
     <!-- new pro/pro video features -->
+    <local name="SUPPORT_PRO_AE_PRIORITY_MODE" value="true"/>
     <local name="SUPPORT_PRO_RESET" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_RESET" value="true" />	
     <local name="SUPPORT_PRO_VIDEO_RESOLUTION_SETTING" value="true" />
@@ -317,11 +323,13 @@
     <local name="SUPPORT_PRO_VIDEO_ZOOM_ROCKER" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_AUDIO_INPUT_CONTROL" value="true"/>
     <local name="SUPPORT_PRO_COLOR_TUNE_TEMPERATURE" value="true"/>
+    <local name="SUPPORT_BACK_TELE_PRO" value="true"/>
 
     <!-- seamless zoom -->
     <local name="REAR_WIDE_ONLY_IN_NIGHT_MODE_SEAMLESS_ZOOM_LITE" value="true"/>
     <local name="SUPPORT_SEAMLESS_ZOOM" value="true"/>
     <local name="BACK_SUPER_RESOLUTION_CAMERA_ID" value="0"/>
 
-
+    <local name="SUPPORT_ZOOM_SHORTCUT_WITH_LENS_BUTTON" value="true"/>
+    <local name="SUPPORT_NIGHT_CIRCLE_SCREEN_FLASH" value="true"/>
 </resources>
