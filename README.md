@@ -48,7 +48,7 @@ If camera app crashes (or other issues like error on 64MP mode) please clear cam
 - Tele cam in pro mode (Can take videos with 30x zoom)
 - Unlimited Video File Size
 - EIS Support / Video stabilization @ 4K (Disable energy saving mode to avoid lag)
-- AI Improve Details feature (64MP mode)
+- AI Detail Enhancer feature (64MP mode)
 - Full single take (Like Second Editing)
 - Full Single take (with AI)
 - Full Beauty features (Beauty in Live Focus, Beauty Brighten, Body Beauty, change skin tone)
