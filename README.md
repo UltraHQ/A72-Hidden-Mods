@@ -10,7 +10,7 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 #### For more mods on CSC-Level also get: [A72-CSC-Mods](https://github.com/UltraHQ/A72-CSC-Mods)
 
 ### Installation:
-1. Download the branch / repository as a .zip
+1. Download the module
 2. Open the magisk app and go to modules
 3. Click the "Install from storage" button and select the .zip you just downloaded 
 
