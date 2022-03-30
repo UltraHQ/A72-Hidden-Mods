@@ -3,12 +3,14 @@
 A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) plus many extra mods systemlessly!<br/>
 Thanks ShaDisNX255 for allowing me to use your features! Without you, this project would've never started.
 
+## This is the experimental branch. Many things are not tested enough, may cause bootloops, may cause issues and probably wont even make it into the release.<br/>I recommend using this with the [BootloopSaver module](https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver)
+
 [XDA Thread of A72 Hidden Mods](https://forum.xda-developers.com/t/magisk-module-a72-hidden-mods.4258825/)
 
 #### For more mods on CSC-Level also get: [A72-CSC-Mods](https://github.com/UltraHQ/A72-CSC-Mods)
 
 ### Installation:
-1. Download the module from the releases
+1. Download the branch / repository as a .zip
 2. Open the magisk app and go to modules
 3. Click the "Install from storage" button and select the .zip you just downloaded 
 
