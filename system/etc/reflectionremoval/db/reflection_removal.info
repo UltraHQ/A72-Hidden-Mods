@@ -1,0 +1,9 @@
+{
+  "version": "4.1",
+  "framework": "tflite",
+  "precision": "float16",
+  "runtime": "gpu",
+  "model_path": [
+    "/system/etc/reflectionremoval/db/reflection_removal.tflite"
+  ]
+}

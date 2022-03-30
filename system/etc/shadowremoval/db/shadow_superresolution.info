@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "framework": "tflite",
+  "precision": "float16",
+  "runtime": "gpu",
+  "model_path": [
+    "/system/etc/shadowremoval/db/shadow_superresolution.info"
+  ]
+}

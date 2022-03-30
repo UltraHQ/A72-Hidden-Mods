@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "framework": "tflite",
+  "precision": "float16",
+  "runtime": "cpu",
+  "model_path": [
+    "/system/etc/objectremoval/db/interactiveseg.tflite"
+  ]
+}
