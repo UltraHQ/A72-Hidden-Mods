@@ -15,7 +15,8 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 > Note: It should only be used on the Galaxy A72 (SM-A725F) running the corresponding android security patch version as written in the releases. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
 
 ### Troubleshooting:
-If camera app crashes (or other issues like error on 64MP mode) please clear camera app data.
+- If camera app crashes (or other issues like error on 64MP mode) please clear camera app data.
+- To make Object / Shadow / Reflection Eraser show, update [Samsung Photo Editor](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-photo-editor/) by installing the latest APK.
 
 ### Known bugs:
 - Night Mode in camera: Taking a photo with the ultra wide cam will give you an error, but the photo will still save. The main cam does not have this problem. This issue is only present in night mode and nowhere else.
