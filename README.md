@@ -47,7 +47,7 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 
 #### Added Camera Features:
 - Extended pro (video) mode features: Histogram, Focus peaking, Zoom, Reset button, Expanded shutter speed
-- Tele cam in pro mode (Can take videos with 30x zoom)
+- Tele cam in pro video mode (Can take videos with 30x zoom)
 - Unlimited Video File Size
 - EIS Support / Video stabilization @ 4K (Disable energy saving mode to avoid lag)
 - AI Detail Enhancer feature (64MP mode)
