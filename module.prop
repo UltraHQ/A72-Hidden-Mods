@@ -1,7 +1,7 @@
 id=a72mods
 name=A72 Hidden Mods
-version=v2.4.1
-versionCode=33
+version=v2.4.5
+versionCode=34
 author=UltraHQ
 description=This module adds many Camera and OS mods. See the GitHub Page for a full list of additions
 updateJson=https://raw.githubusercontent.com/UltraHQ/A72-Hidden-Mods/main/update.json
