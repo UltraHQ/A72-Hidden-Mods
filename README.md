@@ -42,6 +42,7 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 - Enabled [mDNIe](https://www.samsung.com/global/galaxy/what-is/mdnie/)
 - Enabled Resolution changing (FHD, HD - only visible in Bixby Routines)
 - Setting to limit battery charge to 85%
+- Smart Widgets
 
 
 #### Added Camera Features:
