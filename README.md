@@ -17,6 +17,7 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 ### Troubleshooting:
 - If camera app crashes (or other issues like error on 64MP mode) please clear camera app data.
 - To make Object / Shadow / Reflection Eraser show, update [Samsung Photo Editor](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-photo-editor/) by installing the latest APK.
+- To fix Samsung Health root detection, I recommend using [SamsungAppsPatcher](https://adil.hanney.org/SamsungAppsPatcher/)
 
 ### Known bugs:
 - Night Mode in camera: Taking a photo with the ultra wide cam will give you an error, but the photo will still save. The main cam does not have this problem. This issue is only present in night mode and nowhere else.
@@ -32,7 +33,6 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 - AOD to Lockscreen Transition
 - Full Edge Lighting
 - Fixed Smart View (Normally broken on rooted devices)
-- Fixed S-Health (Normally broken on rooted devices - hide in magisk to fully work)
 - Enhance Photo Feature in Gallery
 - Updated AOD Doze Service
 - Updated AOD Engine
