@@ -16,6 +16,7 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 
 ### Troubleshooting:
 - If camera app crashes (or other issues like error on 64MP mode) please clear camera app data.
+- If system apps start crashing, boot into your Recovery and wipe cache partition. On stock recovery, also "Repair apps".
 - To make Object / Shadow / Reflection Eraser show, update [Samsung Photo Editor](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-photo-editor/) by installing the latest APK.
 - To fix Samsung Health root detection, I recommend using [SamsungAppsPatcher](https://adil.hanney.org/SamsungAppsPatcher/)
 
@@ -43,6 +44,7 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 - Enabled Resolution changing (FHD, HD - only visible in Bixby Routines)
 - Setting to limit battery charge to 85%
 - Smart Widgets
+- Samsung Smart Suggestions (Smart Calendar, Smart Widgets Auto Rotation, ..)
 
 
 #### Added Camera Features:
