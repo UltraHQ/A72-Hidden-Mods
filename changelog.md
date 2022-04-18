@@ -2,5 +2,5 @@
 Running on devices with another patch can cause issues!
 
 ---
-<b>v2.4.5 | Changelog:</b>
-<br/>• Updated module to OneUI 4.1<br/>• Added Smart Widgets
+<b>v2.4.6 | Changelog:</b>
+<br/>• Added Samsung Smart Suggestions (Smart Calendar, Smart Widgets Auto Rotation, ..)
