@@ -43,8 +43,6 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 - Full Edge Lighting
 - Fixed Smart View (Normally broken on rooted devices)
 - Enhance Photo Feature in Gallery
-- Updated AOD Doze Service
-- Updated AOD Engine
 - Codec support for APE, DSD and HDR10+ content
 - Camera Privacy Toggle
 - ADPS (Wi-Fi Power Saving)
@@ -62,8 +60,7 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 - EIS Support / Video stabilization @ 4K (Disable energy saving mode to avoid lag)
 - AI Detail Enhancer feature (64MP mode)
 - Object/Shadow/Reflection Eraser (Update [Samsung Photo Editor](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-photo-editor/) to make it work, by installing the latest APK)
-- Full single take (Like Second Editing)
-- Full Single take (with AI)
+- Full single take (Full AI, Second Editing, ..)
 - Full Beauty features (Beauty in Live Focus, Beauty Brighten, Body Beauty, change skin tone)
 - Torch Flash in Live Focus
 - Review feature
@@ -71,7 +68,6 @@ Thanks ShaDisNX255 for allowing me to use your features! Without you, this proje
 - Improved Scene Detection
 - S-Series Photo Processing
 - S-Series AI-Models & AI Features
-- S-Series Remaster photo feature (Denoise, Deblur, Moire, Upscale, Photopolish and more added)
 - Video Audio Zoom
 - Full Intelligent Recognition (like Smart Scan Text Extraction)
 - Full Live Focus (all S-Series effects)
