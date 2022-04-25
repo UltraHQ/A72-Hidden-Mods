@@ -1,22 +1,21 @@
 <?xml version= "1.0" encoding= "UTF-8"?>
 <resources>
     <!-- Shootingmode -->
-    <local name="SHOOTING_MODE_SINGLE_TAKE_PHOTO" back="SINGLE_TAKE_PHOTO" front="SINGLE_TAKE_PHOTO" enable="true" more="false" order="1" preview-size="1440x1080" capture-size="3264x2448" front-capture-size="2944x2208" info="1"/>
-    <local name="SHOOTING_MODE_LIVE_FOCUS" back="LIVE_FOCUS" front="SELFIE_FOCUS" enable="true" more="false" order="11" info="2"/>
+    <local name="SHOOTING_MODE_FUN" back="FUN" front="FUN" enable="false" more="false" order="1" />
+    <local name="SHOOTING_MODE_LIVE_FOCUS" back="LIVE_FOCUS" front="LIVE_FOCUS_LITE" enable="true" more="false" order="2" info="2"/>
     <local name="SHOOTING_MODE_PHOTO" back="PHOTO" front="PHOTO" enable="true" more="false" order="3" />
     <local name="SHOOTING_MODE_VIDEO" back="VIDEO" front="VIDEO" enable="true" more="false" order="4" />
-    <local name="SHOOTING_MODE_FUN" back="FUN" front="FUN" enable="false" more="false" order="5" />
 
-    <local name="SHOOTING_MODE_AR_DOODLE" back="AR_DOODLE" enable="true" more="true" order="6"/>
-    <local name="SHOOTING_MODE_PRO" back="PRO" enable="true" more="true" order="7"/>
-    <local name="SHOOTING_MODE_PANORAMA" back="PANORAMA" enable="true" more="true" order="8" preview-size="1920x1080" capture-size="4000x3000"/>
+    <local name="SHOOTING_MODE_PRO" back="PRO" enable="true" more="true" order="5"/>
+    <local name="SHOOTING_MODE_PRO_VIDEO" back="PRO_VIDEO" enable="true" more="true" order="6"/>
+    <local name="SHOOTING_MODE_SINGLE_TAKE_PHOTO" back="SINGLE_TAKE_PHOTO" front="SINGLE_TAKE_PHOTO" enable="true" more="true" order="7" preview-size="1440x1080" capture-size="3264x2448" front-capture-size="2944x2208" info="1"/>
+    <local name="SHOOTING_MODE_NIGHT" back="NIGHT" front="NIGHT" enable="true" more="true" order="8" info="3"/>
     <local name="SHOOTING_MODE_FOOD" back="FOOD" enable="true" more="true" order="9" info="5"/>
-    <local name="SHOOTING_MODE_NIGHT" back="NIGHT" front="NIGHT" enable="true" more="true" order="10" info="3"/>
+    <local name="SHOOTING_MODE_PANORAMA" back="PANORAMA" enable="true" more="true" order="10" preview-size="1920x1080" capture-size="4000x3000"/>
     <local name="SHOOTING_MODE_MACRO" back="MACRO" enable="true" more="true" order="11" info="4"/>
-    <local name="SHOOTING_MODE_PRO_VIDEO" back="PRO_VIDEO" enable="true" more="true" order="12"/>
-    <local name="SHOOTING_MODE_SUPER_SLOW_MOTION" back="SUPER_SLOW_MOTION" enable="true" more="true" order="13" preview-size="1280x720" capture-size="1280x720" info="6"/>
-    <local name="SHOOTING_MODE_SLOW_MOTION" back="SLOW_MOTION" front="SLOW_MOTION" enable="true" more="true" order="14" preview-size="1280x720" capture-size="1280x720" front-preview-size="1920x1080" front-capture-size="1920x1080"/>
-    <local name="SHOOTING_MODE_HYPER_LAPSE" back="HYPER_LAPSE" front="HYPER_LAPSE" enable="true" more="true" order="15" preview-size="1920x1080" capture-size="1920x1080" info="7"/>
+    <local name="SHOOTING_MODE_SUPER_SLOW_MOTION" back="SUPER_SLOW_MOTION" enable="true" more="true" order="12" preview-size="1280x720" capture-size="1280x720" info="6"/>
+    <local name="SHOOTING_MODE_SLOW_MOTION" back="SLOW_MOTION" front="SLOW_MOTION" enable="true" more="true" order="13" preview-size="1280x720" capture-size="1280x720" front-preview-size="1920x1080" front-capture-size="1920x1080"/>
+    <local name="SHOOTING_MODE_HYPER_LAPSE" back="HYPER_LAPSE" front="HYPER_LAPSE" enable="true" more="true" order="14" preview-size="1920x1080" capture-size="1920x1080" info="7"/>
     <local name="SHOOTING_MODE_QR" back="QR" enable="true" more="false" order="100" preview-size="2400x1080"/>
 
     <!-- Capture resolution - BACK -->
@@ -217,7 +216,7 @@
     <local name="TRANSITION_WIDE_TO_NORMAL_ANIMATION_DURATION" value="600" />	
 
     <!-- Support picture format -->
-    <local name="CAMERA_SUPPORT_PICTURE_FORMAT" value="true"/>
+    <local name="CAMERA_SUPPORT_PICTURE_FORMAT" value="false"/>
 
     <!-- Post processing -->
     <local name="SUPPORT_POST_PICTURE_PROCESSING" value="true"/>
@@ -306,12 +305,6 @@
     <local name="SUPPORT_SAVE_AS_FLIPPED_IN_MEDIA_RECORDER" value="true" />
 		
     <local name="SUPPORT_MACRO_NUDGE" value="true" />
-	
-    <!-- Guide Line percentage --> 
-    <local name="TOP_GUIDE_LINE" value="0.14"/> 
-    <local name="BOTTOM_GUIDE_LINE" value="0.74"/>
-    <local name="SHUTTER_AREA_GUIDE_LINE" value="0.820f"/>
-    <local name="KEEP_CHANGED_EV_AFTER_ZOOM" value="true"/>
 
     <!-- new pro/pro video features -->
     <local name="SUPPORT_PRO_AE_PRIORITY_MODE" value="true"/>
@@ -332,7 +325,4 @@
 
     <local name="SUPPORT_ZOOM_SHORTCUT_WITH_LENS_BUTTON" value="true"/>
     <local name="SUPPORT_NIGHT_CIRCLE_SCREEN_FLASH" value="true"/>
-	
-    <!-- Focus enhancer -->
-    <local name="SUPPORT_FOCUS_ENHANCER_FLASH" value="true"/>
 </resources>
