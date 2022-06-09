@@ -1,6 +1,6 @@
-### Only for the Android 12 March security patch (A725FXXU4BVC1)
+### Only for the Android 12 May security patch (A725FXXS4BVE2)
 Running on devices with another patch can cause issues!
 
 ---
-<b>v2.4.8 | Changelog:</b>
-<br/>• Updated APKs (Thanks @Futinghe for the PR)
+<b>v2.5.0 | Changelog:</b>
+<br/>• Fixed missing feature line from May patch

@@ -303,7 +303,9 @@
 
     <!-- temporary enable for QC -->
     <local name="SUPPORT_SAVE_AS_FLIPPED_IN_MEDIA_RECORDER" value="true" />
-		
+	
+    <local name="SUPPORT_SUPER_RESOLUTION_SMART_TIPS" value="true" />
+
     <local name="SUPPORT_MACRO_NUDGE" value="true" />
 
     <!-- new pro/pro video features -->
