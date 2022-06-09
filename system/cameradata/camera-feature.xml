@@ -186,9 +186,6 @@
     <local name="SUPPORT_SUPER_LARGE_RESOLUTION_ZOOM" value="true"/>
     <local name="SUPPORT_FRONT_SENSOR_CROP_SUPER_LARGE_RESOLUTION" value="true" />
 
-    <!-- Auto Framing -->
-    <local name="SUPPORT_VIDEO_AUTO_FRAMING" value="true"/>
-
     <!-- HEIF format -->
     <local name="SUPPORT_HEIF_FORMAT" value="true"/>
 
@@ -306,7 +303,9 @@
 
     <!-- temporary enable for QC -->
     <local name="SUPPORT_SAVE_AS_FLIPPED_IN_MEDIA_RECORDER" value="true" />
-		
+
+    <local name="SUPPORT_SUPER_RESOLUTION_SMART_TIPS" value="true" />
+
     <local name="SUPPORT_MACRO_NUDGE" value="true" />
 
     <!-- new pro/pro video features -->
@@ -328,9 +327,4 @@
 
     <local name="SUPPORT_ZOOM_SHORTCUT_WITH_LENS_BUTTON" value="true"/>
     <local name="SUPPORT_NIGHT_CIRCLE_SCREEN_FLASH" value="true"/>
-	
-    <!-- Focus enhancer -->
-    <local name="SUPPORT_FOCUS_ENHANCER_FLASH" value="true"/>
-
-    <local name="SUPPORT_SHUTTER_HAPTIC_DELAY" value="true"/>
 </resources>
