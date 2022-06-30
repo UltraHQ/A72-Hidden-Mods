@@ -199,6 +199,9 @@
     <local name="REMOSAIC_CAPTURE_LOW_PERFORMANCE" value="true"/>
     <local name="LOW_PERFORMANCE_RECORDING_VI" value="true" />
     <local name="SUPPORT_CAMERA_APP_ENTRY_PERFORMANCE" value="true" />
+    <local name="USE_EARLY_ZOOM_VIEW_INFLATION" value="true" />
+    <local name="USE_KEY_SCREEN_INFLATION_DELAY" value="true" />
+    <local name="SUPPORT_LOW_PERFORMANCE_REMOSAIC_CAPTURE" value="true"/>
 
     <!-- AF features -->
     <local name="SUPPORT_MULTI_AF" value="false"/>
