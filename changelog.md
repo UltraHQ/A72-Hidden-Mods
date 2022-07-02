@@ -2,5 +2,5 @@
 Running on devices with another patch can cause issues!
 
 ---
-<b>v2.5.0 | Changelog:</b>
-<br/>• Fixed missing feature line from May patch
+<b>v2.5.1 | Changelog:</b>
+<br/>• Improved camera performance
