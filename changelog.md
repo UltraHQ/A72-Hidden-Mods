@@ -2,5 +2,5 @@
 Running on devices with another patch can cause issues!
 
 ---
-<b>v2.5.1 | Changelog:</b>
-<br/>• Improved camera performance
+<b>v2.5.2 | Changelog:</b>
+<br/>• Updated Samsung Smart Suggestions APK (Fixes crash on June patch)
