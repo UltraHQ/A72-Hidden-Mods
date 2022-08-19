@@ -3,6 +3,8 @@
 A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) plus many extra mods systemlessly!<br/>
 Thanks ShaDisNX255 for allowing me to use your features! Without you, this project would've never started.
 
+# ⚠️EOL - No support given anymore. I've switched to AOSP and have no interest in Samsung anymore. Feel free to fork, if you want to keep the project alive.
+
 [XDA Thread of A72 Hidden Mods](https://forum.xda-developers.com/t/magisk-module-a72-hidden-mods.4258825/)
 
 #### For more mods on CSC-Level also get: [A72-CSC-Mods](https://github.com/UltraHQ/A72-CSC-Mods)
